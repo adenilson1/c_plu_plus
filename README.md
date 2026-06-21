@@ -6,3 +6,6 @@
 5) Média Entre Dois Valores
 6) Valor Absoluto da Diferença Entre Dois Valores
 7) Três Valores na Mesma Linha Multplicar
+
+#### Condicionais
+1) Condicionais Simples
