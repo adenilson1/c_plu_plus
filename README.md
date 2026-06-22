@@ -20,3 +20,4 @@
 10) Conectivo Lógicos E e OU juntos
 11) Condicional Switch Case
 12) Condicional Switch Case - EX1
+13) Gerar Aleatório
