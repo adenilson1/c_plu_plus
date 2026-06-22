@@ -22,3 +22,6 @@
 12) Condicional Switch Case - EX1
 13) Gerar Aleatório
 14) Gerar Aleatório - EX1
+
+#### Laços de Repetição
+1) Laço de Repetição Enquanto - While
