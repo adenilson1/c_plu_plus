@@ -23,7 +23,7 @@ int main(){
 
     if(num1 > num2){
         printf("%d > %d", num1, num2);
-    }else if(num2 > num1){
+    }else if(num1 < num2){
         printf("%d > %d", num2, num1);
     }else{
         printf("%d == %d", num1, num2);
