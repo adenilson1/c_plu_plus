@@ -26,3 +26,4 @@
 #### Laços de Repetição
 1) Laço de Repetição Enquanto - While
 2) Laço de Repetição Enquanto - While - parte 2
+3) While - Exercicio 1 - 50 até 0 de 6 em 6
