@@ -25,3 +25,4 @@
 
 #### Laços de Repetição
 1) Laço de Repetição Enquanto - While
+2) Laço de Repetição Enquanto - While - parte 2
