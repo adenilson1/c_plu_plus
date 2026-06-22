@@ -16,3 +16,4 @@
 6) Conectivos - EX1
 7) Conectivos - EX2
 8) Conectivo Lógicos OU
+9) Conectivo Lógicos OU - EX1
