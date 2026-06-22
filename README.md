@@ -13,3 +13,4 @@
 3) Condicionais - EX2
 4) Condicionais - EX3
 5) Conectivos Lógicos
+6) Conectivos - EX1
