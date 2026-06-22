@@ -15,3 +15,4 @@
 5) Conectivos Lógicos
 6) Conectivos - EX1
 7) Conectivos - EX2
+8) Conectivo Lógicos OU
