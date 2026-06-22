@@ -18,3 +18,4 @@
 8)  Conectivo Lógicos OU
 9)  Conectivo Lógicos OU - EX1
 10) Conectivo Lógicos E e OU juntos
+11) Condicional Switch  Case
