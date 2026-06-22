@@ -8,12 +8,13 @@
 7) Três Valores na Mesma Linha Multplicar
 
 #### Condicionais
-1) Condicionais Simples
-2) Condicionais - EX1
-3) Condicionais - EX2
-4) Condicionais - EX3
-5) Conectivos Lógicos
-6) Conectivos - EX1
-7) Conectivos - EX2
-8) Conectivo Lógicos OU
-9) Conectivo Lógicos OU - EX1
+1)  Condicionais Simples
+2)  Condicionais - EX1
+3)  Condicionais - EX2
+4)  Condicionais - EX3
+5)  Conectivos Lógicos
+6)  Conectivos - EX1
+7)  Conectivos - EX2
+8)  Conectivo Lógicos OU
+9)  Conectivo Lógicos OU - EX1
+10) Conectivo Lógicos E e OU juntos
