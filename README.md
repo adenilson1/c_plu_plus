@@ -27,3 +27,4 @@
 1) Laço de Repetição Enquanto - While
 2) Laço de Repetição Enquanto - While - parte 2
 3) While - Exercicio 1 - 50 ate 0 de 6 em 6
+4) While - Exercicio 2 - pares de 10 ate um numero do usuario
