@@ -30,3 +30,4 @@
 4) While - Exercicio 2 - pares de 10 ate um numero do usuario
 5) While - Exercicio 3 - soma de dois numero no intervalo de 5 a 10
 6) Laço de Repetição Para - For
+7) Laço de Repetição Para - For - EX1
