@@ -31,3 +31,4 @@
 5) While - Exercicio 3 - soma de dois numero no intervalo de 5 a 10
 6) Laço de Repetição Para - For
 7) Laço de Repetição Para - For - EX1
+8) Laço de Repetição Para - For - EX2
