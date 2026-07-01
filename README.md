@@ -24,13 +24,13 @@
 14) Gerar Aleatório - EX1
 
 #### Laços de Repetição
-1) Laço de Repetição Enquanto - While
-2) Laço de Repetição Enquanto - While - parte 2
-3) While - Exercicio 1 - 50 ate 0 de 6 em 6
-4) While - Exercicio 2 - pares de 10 ate um numero do usuario
-5) While - Exercicio 3 - soma de dois numero no intervalo de 5 a 10
-6) Laço de Repetição Para - For
-7) Laço de Repetição Para - For - EX1
-8) Laço de Repetição Para - For - EX2
-9) Laço de Repetição Para - For - EX3
+1)  Laço de Repetição Enquanto - While
+2)  Laço de Repetição Enquanto - While - parte 2
+3)  While - Exercicio 1 - 50 ate 0 de 6 em 6
+4)  While - Exercicio 2 - pares de 10 ate um numero do usuario
+5)  While - Exercicio 3 - soma de dois numero no intervalo de 5 a 10
+6)  Laço de Repetição Para - For
+7)  Laço de Repetição Para - For - EX1
+8)  Laço de Repetição Para - For - EX2
+9)  Laço de Repetição Para - For - EX3
 10) Criar Constantes com DEFINE
