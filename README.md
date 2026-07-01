@@ -35,3 +35,4 @@
 9)  Laço de Repetição Para - For - EX3
 10) Criar Constantes com DEFINE
 11) Exercício de Fixação 1 - Contagem Regressiva
+12) Exercício de Fixação 2 - Numeros Pares de 10 a 20
