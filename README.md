@@ -34,3 +34,4 @@
 8)  Laço de Repetição Para - For - EX2
 9)  Laço de Repetição Para - For - EX3
 10) Criar Constantes com DEFINE
+11) Exercício de Fixação 1 - Contagem Regressiva
