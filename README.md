@@ -33,3 +33,4 @@
 7) Laço de Repetição Para - For - EX1
 8) Laço de Repetição Para - For - EX2
 9) Laço de Repetição Para - For - EX3
+10) Criar Constantes com DEFINE
